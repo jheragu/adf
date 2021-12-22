@@ -1,0 +1,9 @@
+{
+	"name": "dataFactoryTZM",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0751dd8d-b1a9-4111-bd47-1efd64c7a6ee",
+		"tenantId": "1754c0f5-624b-4558-a7ef-7e4ce2e171a4"
+	}
+}
