@@ -5,7 +5,7 @@
 		"type": "RestService",
 		"typeProperties": {
 			"url": "https://api.covidtracking.com/v1/us/20200501.csv",
-			"enableServerCertificateValidation": true,
+			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		}
 	}
