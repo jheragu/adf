@@ -1,0 +1,11 @@
+{
+	"name": "DatabricksPipeline",
+	"properties": {
+		"parameters": {
+			"name": {
+				"type": "string"
+			}
+		},
+		"annotations": []
+	}
+}
