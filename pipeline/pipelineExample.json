@@ -40,7 +40,8 @@
 						"linkedServiceName": {
 							"referenceName": "AzureBlobStorage",
 							"type": "LinkedServiceReference"
-						}
+						},
+						"path": "datafactoryexamples"
 					}
 				},
 				"inputs": [
